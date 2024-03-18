@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HelloWorld", "HelloWorld\HelloWorld.vcxproj", "{09C143CD-4BE4-4DE4-B0E5-E5C0DD197ECA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chap01_Findmax", "Chap01_Findmax\Chap01_Findmax.vcxproj", "{81140210-D824-4EE3-9482-784BDAEEC2A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{09C143CD-4BE4-4DE4-B0E5-E5C0DD197ECA}.Release|x64.Build.0 = Release|x64
 		{09C143CD-4BE4-4DE4-B0E5-E5C0DD197ECA}.Release|x86.ActiveCfg = Release|Win32
 		{09C143CD-4BE4-4DE4-B0E5-E5C0DD197ECA}.Release|x86.Build.0 = Release|Win32
+		{81140210-D824-4EE3-9482-784BDAEEC2A3}.Debug|x64.ActiveCfg = Debug|x64
+		{81140210-D824-4EE3-9482-784BDAEEC2A3}.Debug|x64.Build.0 = Debug|x64
+		{81140210-D824-4EE3-9482-784BDAEEC2A3}.Debug|x86.ActiveCfg = Debug|Win32
+		{81140210-D824-4EE3-9482-784BDAEEC2A3}.Debug|x86.Build.0 = Debug|Win32
+		{81140210-D824-4EE3-9482-784BDAEEC2A3}.Release|x64.ActiveCfg = Release|x64
+		{81140210-D824-4EE3-9482-784BDAEEC2A3}.Release|x64.Build.0 = Release|x64
+		{81140210-D824-4EE3-9482-784BDAEEC2A3}.Release|x86.ActiveCfg = Release|Win32
+		{81140210-D824-4EE3-9482-784BDAEEC2A3}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
